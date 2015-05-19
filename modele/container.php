@@ -3,7 +3,7 @@ $container = array(
 	1 => array( 
  		'ID' => 'identifiant01',
  		'PoidMax' => 7,
- 		'PoidReel' => 5,
+ 		'PoidReel' => 9,
 		'TypeContenu' => 'verre'
 	),
 	2 => array( 
@@ -21,7 +21,7 @@ $container = array(
 	4 => array( 
  		'ID' => 'identifiant04',
  		'PoidMax' => 6,
- 		'PoidReel' => 3,
+ 		'PoidReel' => 9,
 		'TypeContenu' => 'plastique'
 	),
 	5 => array( 
